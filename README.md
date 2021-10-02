@@ -41,6 +41,14 @@ export FLASK_DEBUG=True
   ```bash
  exit()
  ```
+ 
+ # Rodando a aplicação
+  ```bash
+ flask run
+ ```
+ # Resultado no Swagger
+ - Entrar no link: 
+ localhost:5000
 
 
 
