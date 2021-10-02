@@ -48,7 +48,7 @@ export FLASK_DEBUG=True
  ```
  # Resultado no Swagger
 
- localhost:5000
+ http://localhost:5000
 
 
 
