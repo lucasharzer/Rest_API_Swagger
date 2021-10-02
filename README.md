@@ -47,7 +47,7 @@ export FLASK_DEBUG=True
  flask run
  ```
  # Resultado no Swagger
- - Entrar no link: 
+
  localhost:5000
 
 
