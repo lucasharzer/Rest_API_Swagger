@@ -6,9 +6,28 @@ Obs: o arquivo requirements.txt possui todos os pacotes e suas respectivas vers�
 
 # Comandos no terminal para configuração
 
+- Instalar os pacotes: 
+
 ```bash
 python setup.py develop
 ```
+- Configurar o app:
+
+Para Windows:
+```bash
+set FLASK_APP=app.py 
+```
+```bash
+set FLASK_DEBUG=True
+```
+Para Linux:
+```bash
+export FLASK_APP=app.py
+```
+```bash
+export FLASK_DEBUG=True
+```
+
 
 
 
