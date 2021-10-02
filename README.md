@@ -28,6 +28,19 @@ export FLASK_APP=app.py
 export FLASK_DEBUG=True
 ```
 
+- Criar o banco de dados:
+ ```bash
+ python
+ ```
+  ```bash
+ from app import banco
+ ```
+  ```bash
+ banco.create_all()
+ ```
+  ```bash
+ exit()
+ ```
 
 
 
