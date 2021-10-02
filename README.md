@@ -51,11 +51,11 @@ export FLASK_DEBUG=True
  http://localhost:5000
  
  <span>
-     <img src="https://user-images.githubusercontent.com/85804895/135732868-01f77528-a4fe-4cd1-83d2-72771979046d.png", width=900>
+     <img src="https://user-images.githubusercontent.com/85804895/135732999-64a3305d-a909-4a94-a906-dd6d7dc16ba8.png", width=900>
 </span>
 
  <span>
-     <img src="https://user-images.githubusercontent.com/85804895/135732892-574f7f34-6d41-45c2-a2a6-46e45ec6d41b.png", width=900>
+     <img src="https://user-images.githubusercontent.com/85804895/135733013-b2c8c8d7-4d22-4866-9a08-e872aec5bb1c.png", width=900>
 </span>
 
 - exemplo: post
