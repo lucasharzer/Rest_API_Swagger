@@ -49,6 +49,10 @@ export FLASK_DEBUG=True
  # Resultado no Swagger
 
  http://localhost:5000
+ 
+ <span>
+     <img src="https://user-images.githubusercontent.com/85804895/135732868-01f77528-a4fe-4cd1-83d2-72771979046d.png", width=900>
+</span>
 
 
 
