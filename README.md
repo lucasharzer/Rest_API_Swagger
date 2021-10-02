@@ -58,6 +58,7 @@ export FLASK_DEBUG=True
      <img src="https://user-images.githubusercontent.com/85804895/135732892-574f7f34-6d41-45c2-a2a6-46e45ec6d41b.png", width=900>
 </span>
 
+- exemplo: post
  <span>
      <img src="https://user-images.githubusercontent.com/85804895/135732906-08dac296-0b5b-4331-b44c-e3cb089ba9ed.png", width=900>
 </span>
